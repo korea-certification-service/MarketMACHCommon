@@ -18,7 +18,13 @@ English : https://op-mach-bucket.s3.ap-northeast-2.amazonaws.com/whitepaper/whit
 
 Chinese : https://op-mach-bucket.s3.ap-northeast-2.amazonaws.com/whitepaper/white_paper_cn_2.04.pdf
 
-## Repository (All repositorys are using private.)
+## Repository 
+
+### Public Repository
+
+KanbanBoard : https://github.com/korea-certification-service/staticResource
+
+## Private Repository (It will be released open source.)
 
 MarketMACH : https://github.com/korea-certification-service/marketMach
 
@@ -26,4 +32,3 @@ VTR : https://github.com/korea-certification-service/VTR
 
 AI-Chatbot : https://github.com/korea-certification-service/ChatBot
 
-KanbanBoard : https://github.com/korea-certification-service/staticResource
