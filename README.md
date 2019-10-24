@@ -12,11 +12,9 @@ MarketMACH Platform : https://www.marketmach.com
 
 ## Whitepaper
 
-Korean : https://op-mach-bucket.s3.ap-northeast-2.amazonaws.com/whitepaper/white_paper_kor_2.04.pdf
+Korean : https://op-mach-bucket.s3.ap-northeast-2.amazonaws.com/whitepaper/white_paper_kor_2.05.pdf
 
-English : https://op-mach-bucket.s3.ap-northeast-2.amazonaws.com/whitepaper/white_paper_eng_2.04.pdf
-
-Chinese : https://op-mach-bucket.s3.ap-northeast-2.amazonaws.com/whitepaper/white_paper_cn_2.04.pdf
+English : https://op-mach-bucket.s3.ap-northeast-2.amazonaws.com/whitepaper/white_paper_eng_2.05.pdf
 
 ## Repository 
 
